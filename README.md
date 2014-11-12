@@ -1,5 +1,8 @@
-Learning Outcomes
-=================
+Syllabus
+========
+* subject to change.
+ 
+
 Increasingly, numerous historical documents making massive amounts of data are being put online. But, once that material is online, we face a question of ‘so what?’ This course will give you the digital research and data management skills and reflexive theoretical grounding to answer the ‘so what’. As digital historian Adam Crymble writes, ‘We’ve spent millions digitizing the world’s historical resources. Let’s work together to figure out what they can teach us’.
 
 
@@ -36,10 +39,10 @@ The data and informatics skills that students will learn in this course, as well
 ## Assessment exercises
 
 ### Assessment breakdown:
-> Exercises: 30 % 
-> Final project: 40%
-> Paradata document: 10%
-> Active, value-added community building by participation in the discussion(s), across mutliple media and platforms: 20%
+* Exercises: 30 % 
+* Final project: 40%
+* Paradata document: 10%
+* Active, value-added community building by participation in the discussion(s), across mutliple media and platforms: 20%
 
 
 There is no final exam in this course.
@@ -67,33 +70,33 @@ NB 'optional' denotes an online tutorial without the purview of this course, to 
 Each section also requires students to be actively engaging with each other’s work via the wiki and issues section of their github repositories. The course instructor monitors these by pulling all of their respective RSS into a single feed, (shared with the students via the LMS), but posts responses etc directly within the student’s repository. 
 
 
-Students can select their six best exercises (one per section) to count towards their formal assessment; thus the other exercises constitute formative assessment. Indeed, this structure allows the students a great degree of flexibility in constructing their own learning path. We recognize that most of these skills and concepts will feel entirely strange to history students; we endeavour to make it ‘safe to fail’, to try different paths without fear.
+We 'choose our own adventure' through this material. Students can select their six best exercises (one per section) to count towards their formal assessment; thus the other exercises constitute formative assessment. Indeed, this structure allows the students a great degree of flexibility in constructing their own learning path. We recognize that most of these skills and concepts will feel entirely strange to history students; we endeavour to make it ‘safe to fail’, to try different paths without fear.
 
-1) principles of open access research and your digital identity (2 weeks)
+1. principles of open access research and your digital identity (2 weeks)
 - EXERCISE: learning markdown syntax with dillinger.io
 - EXERCISE: setting up a domain (webspace) of your own with reclaimhosting.com
 - EXERCISE: setting up a simple open notebook (blog + personal github repo + notational velocity or notation, as appropriate)
 - EXERCISE: forking & contributing to a repository (fork the syllabus, then add your name, blog site, open notebook, to it)
 
-2) Finding Data (2 weeks)
+2. Finding Data (2 weeks)
 - EXERCISE: principles of search; digital history treasure hunt
 - EXERCISE: semantic data, xml, and TEI tutorials
 - EXERCISE: text versus other kinds of digital data: how to digitize 3d objects as a lesson in metadata
 
-3) ‘Wrangling’ Data, or getting it into useable shape (2 weeks) 
+3. ‘Wrangling’ Data, or getting it into useable shape (2 weeks) 
 - EXERCISE: searching and cleaning data using regular expressions
 - EXERCISE: installing and cleaning data using Open refine
 - EXERCISE: Named Entity Recognition tools
 - OPTIONAL: command line object character recognition
 
-4) First Questions, or where are the holes and assumptions in your data? (2 weeks) 
+4. First Questions, or where are the holes and assumptions in your data? (2 weeks) 
 - EXERCISE: RAW vector graphs generator
 - EXERCISE: Voyant Tools for preliminary explorations
 - EXERCISE: Webmapping for clusters
 - OPTIONAL: Examining Database structures, SQL & MYSQL
 - OPTIONAL: Linked Open Data to span the holes
 
-5) Analyzing data, or matching the appropriate tool to the question (2 weeks) 
+5. Analyzing data, or matching the appropriate tool to the question (2 weeks) 
 - EXERCISE: project reviews, modeled on 'How'd They Make That'? by Miriam Posner http://miriamposner.com/blog/how-did-they-make-that/
 - EXERCISE: deeper analysis with Voyant Tools; installing Voyant Tools locally
 - EXERCISE: Overviewproject for TF-IDF analysis of text collection; installing Overview locally
@@ -101,7 +104,7 @@ Students can select their six best exercises (one per section) to count towards 
 - EXERCISE: Gephi and SNA
 - OPTIONAL: ImageJS for analyzing visual datasets 
 
-6) Visualizing data, or communicating the compelling story (2 weeks)
+6. Visualizing data, or communicating the compelling story (2 weeks)
 - EXERCISE: infographics 
 - EXERCISE: WAMP/MAMP set up and installation
 - EXCERCISE: building a website using Twitter Bootstrap
@@ -109,7 +112,7 @@ Students can select their six best exercises (one per section) to count towards 
 - OPTIONAL webmapping with cartodb or leaflet.js or google maps/fusion tables
 - OPTIONAL storymap.js
 
-•	The final summative project will include (40%): 
+###	The final summative project will include (40%): 
 - searching digitized newspapers for materials appropriate for the larger research project
 - transcribing and encoding these materials in xml (with all of the reflective decision making that entails)
 - sharing these materials via contributions to the course repository on Github
@@ -117,10 +120,13 @@ Students can select their six best exercises (one per section) to count towards 
 - situating the materials within the broader materials collected by the larger research project
 - visualizing and telling the compelling story from these materials; online by week 11 for discussion. 
 
--There are two checkpoints 
+There are two checkpoints 
+
 At week 5: First checkpoint assignment for the major project: research agreement assignment contract  (pass/redo)
 
+
 At week 8:  Second checkpoint assignment for the major project: research design; data and holes (pass/redo)
+
 
 •	The ‘paradata’ document (10%)
 - discusses the process of building this project, the scholarly decisions involved in it, and reflection on how the tools used have helped/hindered the historiography. Submitted at end of course.
