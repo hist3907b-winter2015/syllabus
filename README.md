@@ -36,7 +36,8 @@ The course is built so that every student makes a meaningful (and publicly ackno
 
 The data and informatics skills that students will learn in this course, as well as the theoretical and historiographical grounding they will receive, are in demand. Students who successfully pass this course will have a piece of public work that they can include in portfolios and CVs that will stand them in good stead in the broader world within and without academia. Indeed, this course is a first step in developing their online scholarly persona.
 
-## Assessment exercises
+Assessment exercises
+====================
 
 ### Assessment breakdown:
 * Exercises: 30 % 
@@ -48,7 +49,7 @@ The data and informatics skills that students will learn in this course, as well
 There is no final exam in this course.
 
 
-•	Active, value-added community building by participation in the discussion(s), across mutliple media and platforms: 20%
+### Active, value-added community building by participation in the discussion(s), across mutliple media and platforms: 20%
 
 
 Digital history is public history. We ‘hack as a way of knowing’. Digital history is done best in the light of peer review; we will use social media to highlight the work of students, to put them in contact with other practitioners in the field, to induct them into the community of practice that also characterizes digital history.
@@ -63,7 +64,7 @@ Ongoing student feedback: github features an issue tracker and a wiki on each re
 Privacy issues will be addressed by allowing all public outputs to be done using pseudonyms, under arrangement with the course instructors (while recognizing that pseudonyms run counter to the ideals of managing a scholarly identity online, online safety is a priority. Arrangements for complete behind-the-LMS-gate interactions and project work can be made on an individual basis as warranted). 
 
 
-•	Exercises (30%)
+###	Exercises (30%)
 NB 'optional' denotes an online tutorial without the purview of this course, to add depth to that section's discussion. Evidence of completion of these may be construed as a bonus on the exercise grade of the course.
 
 
@@ -73,15 +74,15 @@ Each section also requires students to be actively engaging with each other’s 
 We 'choose our own adventure' through this material. Students can select their six best exercises (one per section) to count towards their formal assessment; thus the other exercises constitute formative assessment. Indeed, this structure allows the students a great degree of flexibility in constructing their own learning path. We recognize that most of these skills and concepts will feel entirely strange to history students; we endeavour to make it ‘safe to fail’, to try different paths without fear.
 
 1. principles of open access research and your digital identity (2 weeks)
-- EXERCISE: learning markdown syntax with dillinger.io
-- EXERCISE: setting up a domain (webspace) of your own with reclaimhosting.com
-- EXERCISE: setting up a simple open notebook (blog + personal github repo + notational velocity or notation, as appropriate)
-- EXERCISE: forking & contributing to a repository (fork the syllabus, then add your name, blog site, open notebook, to it)
+* EXERCISE: learning markdown syntax with dillinger.io
+* EXERCISE: setting up a domain (webspace) of your own with reclaimhosting.com
+* EXERCISE: setting up a simple open notebook (blog + personal github repo + notational velocity or notation, as appropriate)
+* EXERCISE: forking & contributing to a repository (fork the syllabus, then add your name, blog site, open notebook, to it)
 
 2. Finding Data (2 weeks)
-- EXERCISE: principles of search; digital history treasure hunt
-- EXERCISE: semantic data, xml, and TEI tutorials
-- EXERCISE: text versus other kinds of digital data: how to digitize 3d objects as a lesson in metadata
+* EXERCISE: principles of search; digital history treasure hunt
+* EXERCISE: semantic data, xml, and TEI tutorials
+* EXERCISE: text versus other kinds of digital data: how to digitize 3d objects as a lesson in metadata
 
 3. ‘Wrangling’ Data, or getting it into useable shape (2 weeks) 
 - EXERCISE: searching and cleaning data using regular expressions
