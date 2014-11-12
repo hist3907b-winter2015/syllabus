@@ -73,7 +73,10 @@ Each section also requires students to be actively engaging with each other’s 
 
 We 'choose our own adventure' through this material. Students can select their six best exercises (one per section) to count towards their formal assessment; thus the other exercises constitute formative assessment. Indeed, this structure allows the students a great degree of flexibility in constructing their own learning path. We recognize that most of these skills and concepts will feel entirely strange to history students; we endeavour to make it ‘safe to fail’, to try different paths without fear.
 
-#### principles of open access research and your digital identity (2 weeks)
+
+These exercises, with instructions and guidance, will be in the course repo.
+
+#### Principles of open access research and your digital identity (2 weeks)
 * EXERCISE: learning markdown syntax with dillinger.io
 * EXERCISE: setting up a domain (webspace) of your own with reclaimhosting.com
 * EXERCISE: setting up a simple open notebook (blog + personal github repo + notational velocity or notation, as appropriate)
