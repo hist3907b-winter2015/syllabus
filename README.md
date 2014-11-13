@@ -21,7 +21,9 @@ By the end of this course, you will be able to:
 6.	Develop an online scholarly voice to contribute data and reflection to the wider digital history community
 
 ## Course Structure
+
 The modules in the course are built around the progressive steps of working with big data: 
+
 1.	principles of open access research and your digital identity 
 (learning outcomes 5,6)
 2. Finding Data (learning outcomes 1) 
@@ -49,8 +51,9 @@ Assessment exercises
 There is no final exam in this course.
 
 
-### Active, value-added community building by participation in the discussion(s), across mutliple media and platforms: 20%
+### Participation: 20%
 
+That is to say, active, value-added community building by participation in the discussion(s), across mutliple media and platforms.
 
 Digital history is public history. We ‘hack as a way of knowing’. Digital history is done best in the light of peer review; we will use social media to highlight the work of students, to put them in contact with other practitioners in the field, to induct them into the community of practice that also characterizes digital history.
 
@@ -86,6 +89,7 @@ These exercises, with instructions and guidance, will be in the course repo.
 * EXERCISE: principles of search; digital history treasure hunt
 * EXERCISE: semantic data, xml, and TEI tutorials
 * EXERCISE: text versus other kinds of digital data: how to digitize 3d objects as a lesson in metadata
+* EXERCISE: grabbing data using <Import.io> 
 
 #### ‘Wrangling’ Data, or getting it into useable shape (2 weeks) 
 - EXERCISE: searching and cleaning data using regular expressions
@@ -116,7 +120,7 @@ These exercises, with instructions and guidance, will be in the course repo.
 - OPTIONAL webmapping with cartodb or leaflet.js or google maps/fusion tables
 - OPTIONAL storymap.js
 
-####	The final summative project will include (40%): 
+### The final summative project will include (40%): 
 - searching digitized newspapers for materials appropriate for the larger research project
 - transcribing and encoding these materials in xml (with all of the reflective decision making that entails)
 - sharing these materials via contributions to the course repository on Github
