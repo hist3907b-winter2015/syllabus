@@ -1,13 +1,23 @@
-Syllabus
-========
-* subject to change.
- 
+#Data Mining & Visualization - HIST3907b Syllabus Winter 2015 @Carleton_U
+Dr. Shawn Graham, PA406 @electricarchaeo
+shawn.graham@carleton.ca
+
+------------------
+Mondays & Wednesdays 11:35-12:55pm. ME3269. 
+
+Office Hours: Mondays 1-2pm; Other times by chance or appointment.
+
+-----------------
+#Signal versus Noise in Historical Data
+![By Dave_B_ cc by 2.0](https://farm5.staticflickr.com/4134/4762372277_4e01e3437f_m.jpg "'Here be dragons' by Davidlohr Bueso, cc by 2.0")
 
 Increasingly, numerous historical documents making massive amounts of data are being put online. But, once that material is online, we face a question of ‘so what?’ This course will give you the digital research and data management skills and reflexive theoretical grounding to answer the ‘so what’. As digital historian Adam Crymble writes, ‘We’ve spent millions digitizing the world’s historical resources. Let’s work together to figure out what they can teach us’.
 
-
 This course is about data mining history, reading distantly thousands of documents at once, about graphing/mapping/visualizing what we find, and working out how to best communicate those findings. It is about writing history in digital media, which are primarily visual media. Thus, we will learn how to scrape data, how to find meaningful patterns within it, and how to visualize (via websites or infographics) those results. Readings will be from relevant literature in the field (mostly open access).
 
+Things will go wrong. Stuff will break. You will be frustrated. This will not be easy, but it will be rewarding if you stick it out. 
+
+Here be dragons.
 
 ##Learning Outcomes 
 
@@ -43,8 +53,8 @@ Assessment exercises
 
 ### Assessment breakdown:
 * Exercises: 30 % 
-* Final project: 40%
-* Paradata document: 10%
+* Final project: 30%
+* Paradata document: 20%
 * Active, value-added community building by participation in the discussion(s), across mutliple media and platforms: 20%
 
 
@@ -53,7 +63,7 @@ There is no final exam in this course.
 
 ### Participation: 20%
 
-That is to say, active, value-added community building by participation in the discussion(s), across mutliple media and platforms.
+**That is to say, active, value-added community building by participation in the discussion(s), across mutliple media and platforms.**
 
 Digital history is public history. We ‘hack as a way of knowing’. Digital history is done best in the light of peer review; we will use social media to highlight the work of students, to put them in contact with other practitioners in the field, to induct them into the community of practice that also characterizes digital history.
 
@@ -69,10 +79,9 @@ Privacy issues will be addressed by allowing all public outputs to be done using
 
 ###	Exercises (30%)
 NB 'optional' denotes an online tutorial without the purview of this course, to add depth to that section's discussion. Evidence of completion of these may be construed as a bonus on the exercise grade of the course.
-
+**Please see due dates in the calendar on cuLearn**
 
 Each section also requires students to be actively engaging with each other’s work via the wiki and issues section of their github repositories. The course instructor monitors these by pulling all of their respective RSS into a single feed, (shared with the students via the LMS), but posts responses etc directly within the student’s repository. 
-
 
 We 'choose our own adventure' through this material. Students can select their six best exercises (one per section) to count towards their formal assessment; thus the other exercises constitute formative assessment. Indeed, this structure allows the students a great degree of flexibility in constructing their own learning path. We recognize that most of these skills and concepts will feel entirely strange to history students; we endeavour to make it ‘safe to fail’, to try different paths without fear.
 
@@ -120,7 +129,7 @@ These exercises, with instructions and guidance, will be in the course repo.
 - OPTIONAL webmapping with cartodb or leaflet.js or google maps/fusion tables
 - OPTIONAL storymap.js
 
-### The final summative project will include (40%): 
+### The final summative project will include (30%): 
 - searching digitized newspapers for materials appropriate for the larger research project
 - transcribing and encoding these materials in xml (with all of the reflective decision making that entails)
 - sharing these materials via contributions to the course repository on Github
@@ -128,13 +137,14 @@ These exercises, with instructions and guidance, will be in the course repo.
 - situating the materials within the broader materials collected by the larger research project
 - visualizing and telling the compelling story from these materials; online by week 11 for discussion. 
 
-There are two checkpoints 
+There are two checkpoints: 
 
 At week 5: First checkpoint assignment for the major project: research agreement assignment contract  (pass/redo)
 
 
 At week 8:  Second checkpoint assignment for the major project: research design; data and holes (pass/redo)
 
+...and again, in week 11 your major project (your visualization) should be online for discussion.
 
-*The ‘paradata’ document (10%)*
-- discusses the process of building this project, the scholarly decisions involved in it, and reflection on how the tools used have helped/hindered the historiography. Submitted at end of course.
+### The ‘paradata’ document (20%)
+- An essay (or unessay) which discusses the process of building this project, the scholarly decisions involved in it, and reflection on how the tools used have helped/hindered the historiography. Submitted on last day of the term, midnight.
