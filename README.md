@@ -182,10 +182,10 @@ At week 8:  Second checkpoint assignment for the major project: research design;
 
 -------
 
-## Technology Failure: ### 
+## Technology Failure:
 As much of this course is obviously technology dependent, both on your own machine and on the internet, you will be expected to have appropriate internet connectivity, and a backup plan for your work: ‘my computer crashed’ (and similar) will not be an acceptable excuse. Please make sure your computer is as up to date as possible in terms of software, drivers, Java, and so on.
 
-## Plagiarism and Cheating ###
+## Plagiarism and Cheating 
 
 Please see the attached document.
 
