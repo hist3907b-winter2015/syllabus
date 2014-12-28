@@ -11,5 +11,7 @@ In the winter of 2016, I intend to transform this course in its entirety to gith
 
 If there are enough interested non-Carleton folks, I would be happy to arrange periodic Google Chat/Hangout sessions to talk about the materials and so on. So if you're interested, why not add your self to this document via a pull request with your twitter (or other) handle? 
 
-We'll see how this works out. If folks are disrespectful to my students or this process, I will endeavour to take this entire project private.
+We'll see how this works out. 
+
+
 
