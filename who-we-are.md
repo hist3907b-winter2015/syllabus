@@ -8,8 +8,8 @@ PA406 - Mondays and Wednesdays, by chance or appointment. Sometimes I may be fou
 
 ### Matthew Taylor
 
-My Online HQ is at [this site.](http://www.MATTHEWPORTFOLIO.COM).
-My Repo for notes is at [this repo.](https://github.com/Ottawagunner/ResearchHistoryNotes) 
+My online HQ is at [this site.](http://www.MATTHEWPORTFOLIO.COM)
+My repo for notes is at [this repo.](https://github.com/Ottawagunner/ResearchHistoryNotes) 
 
 
 
