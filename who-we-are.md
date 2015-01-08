@@ -13,5 +13,6 @@ My repo for notes is at [this repo.](https://github.com/Ottawagunner/ResearchHis
 
 ### Allison Kuhl
 
-[My website](http://2kuhl4u.wordpress.com/)
-[My open notebook](https://github.com/AllisonKuhl/my-research-notebook)
+My website is [here.](http://2kuhl4u.wordpress.com/)
+
+My open notebook is [here.](https://github.com/AllisonKuhl/my-research-notebook)
