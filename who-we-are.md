@@ -4,6 +4,7 @@
 
 ### Shawn Graham
 
+Associate Prof of Digital Humanities
 PA406 - Mondays and Wednesdays, by chance or appointment. Sometimes I may be found in the Discovery Centre. You can ping me on twitter [@electricarchaeo](http://twitter.com/electricarchaeo).
 
 ### Matthew Taylor
