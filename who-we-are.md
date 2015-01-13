@@ -20,3 +20,9 @@ My open notebook is [here.](https://github.com/AllisonKuhl/my-research-notebook)
 ### Ryan Pickering
 
 Hello! I am very excited to be in this class with you all. My online HQ is located [here](http://ryanpickering.github.io), while my open notebook can be found [here](https://github.com/ryanpickering/research-notebook-hist3907b). Good luck to everyone in this class, have a good semester!
+
+### Phebe Jane Valdez
+
+Hey everyone! 
+My online HQ is here (http://valdezhist3907.wordpress.com)
+My Open notebook can be found here (https://github.com/pjvaldez/ResearchOpenNotebook)
