@@ -17,6 +17,15 @@ My website is [here.](http://2kuhl4u.wordpress.com/)
 
 My open notebook is [here.](https://github.com/AllisonKuhl/my-research-notebook)
 
+### Patrick Kelley
+![alt text](https://pbs.twimg.com/profile_images/2746337559/1460ca3cc59a2459ec258159eb299b70.jpeg "Gorgeous, huh?  It's just your reflection in my forehead.")
+
+My homebase is, so far, located at [GitHub](https://github.com/Prytanis).  I also have a [blog](http://primeministerkelley.blogspot.ca/) for documentation, as per the assignment.
+
+My open notebook is also on GitHub at a [subordinate page](https://github.com/Prytanis/HIST3907B-ResearchNotes).
+
+I can be reached through Twitter [@PrimeMinisterK](http://twitter.com/@PrimeMinisterK).
+
 ### Ryan Pickering
 
 Hello! I am very excited to be in this class with you all. My online HQ is located [here](http://ryanpickering.github.io), while my open notebook can be found [here](https://github.com/ryanpickering/research-notebook-hist3907b). Good luck to everyone in this class, have a good semester!
