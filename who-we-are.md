@@ -45,3 +45,7 @@ Hello! I'm having some serious challenges figuring out how to use all these prog
 Hey everyone! 
 My online HQ is here (http://valdezhist3907.wordpress.com)
 My Open notebook can be found here (https://github.com/pjvaldez/ResearchOpenNotebook)
+
+### Jonlou Czajka
+My online HQ is here: https://github.com/jonlouiscool/
+My open notebook is: https://github.com/jonlouiscool/hello-world 
