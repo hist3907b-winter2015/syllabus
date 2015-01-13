@@ -25,3 +25,7 @@ Hello! I am very excited to be in this class with you all. My online HQ is locat
 
 My website is [located here.](http://www.matthew-dodd.com)
 My openNotebook is [located in this repo.](https://github.com/matthewdodd/hist3907b/tree/master/openNotebook)
+
+### Christina Ross
+
+Hello! I'm having some serious challenges figuring out how to use all these programs, but going for it as best I can.  So far I have only a github account, which is both my temporary HQ (until I figured out something better, or learn to use it correctly!) and open notebook; it can be found [here](https://github.com/Xtina-R/Exercise-Notebook). 
