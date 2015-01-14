@@ -50,6 +50,17 @@ My Open notebook can be found here (https://github.com/pjvaldez/ResearchOpenNote
 My online HQ is here: https://github.com/jonlouiscool/
 My open notebook is: https://github.com/jonlouiscool/hello-world 
 
+
+
+
+
+
+
+
+
+
+
+
 ### Savith Robinson
 
 Hello everyone in hist3907-2015!
