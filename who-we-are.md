@@ -49,3 +49,8 @@ My Open notebook can be found here (https://github.com/pjvaldez/ResearchOpenNote
 ### Jonlou Czajka
 My online HQ is here: https://github.com/jonlouiscool/
 My open notebook is: https://github.com/jonlouiscool/hello-world 
+
+### Samuel Keenan
+
+My online HQ can be found here (https://keenansamuel.wordpress.com/)
+My open notebook can be found here (https://github.com/samuelkeenan/Research-Notebook)
