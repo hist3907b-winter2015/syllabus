@@ -61,3 +61,8 @@ Hello everyone in hist3907-2015!
 I have great confidence in the potential of learning how to use and create on GitHub!
 With that said, here's my [HeadQuarter] (https://github.com/Savith)
 Open Notebook will be [here] (https://github.com/Savith/hist3907b-repository)
+
+### William Blanchard 
+
+My online HQ can be found [here.](http://williamblanchardhq.wordpress.com)
+My open notebook can be found [here.](https://github.com/wblancha/hist3907-notebook)
