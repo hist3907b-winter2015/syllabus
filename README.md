@@ -89,9 +89,9 @@ We 'choose our own adventure' through this material. Students can select their s
 These exercises, with instructions and guidance, will be in the course repo.
 
 ## Principles of open access research and your digital identity (2 weeks)
-* EXERCISE: learning markdown syntax with dillinger.io
-* EXERCISE: setting up a domain (webspace) of your own with reclaimhosting.com
-* EXERCISE: setting up a simple open notebook (blog + personal github repo + notational velocity or notation, as appropriate)
+* EXERCISE: learning markdown syntax with dillinger.io or prose.io
+* EXERCISE: setting up a domain (webspace) of your own with reclaimhosting.com or similar
+* EXERCISE: setting up a simple open notebook (blog + personal github repo + notational velocity or similar, as appropriate)
 * EXERCISE: forking & contributing to a repository (fork the syllabus, then add your name, blog site, open notebook, to it)
 
 **To be completed by January 14th, Midnight.**
@@ -99,10 +99,11 @@ These exercises, with instructions and guidance, will be in the course repo.
 ----------------------
 
 ## Finding Data (2 weeks)
-* EXERCISE: principles of search; digital history treasure hunt
-* EXERCISE: semantic data, xml, and TEI tutorials
-* EXERCISE: text versus other kinds of digital data: how to digitize 3d objects as a lesson in metadata
-* EXERCISE: grabbing data using <Import.io> 
+
+* EXERCISE: dream case data retrieval
+* EXERCISE: scraping with Outwit Hut
+* EXERCISE: working with an API
+* EXERCISE: working with wget
 
 **To be completed by January 28th, Midnight.**
 
