@@ -38,7 +38,9 @@ My openNotebook is [located in this repo.](https://github.com/matthewdodd/hist39
 
 ### Christina Ross
 
-Hello! I'm having some serious challenges figuring out how to use all these programs, but going for it as best I can.  So far I have only a github account, which is both my temporary HQ (until I figured out something better, or learn to use it correctly!) and open notebook; it can be found [here](https://github.com/Xtina-R/Exercise-Notebook). 
+My online HQ is [here](https://github.com/Xtina-R)
+
+My open notebook is [here](https://github.com/Xtina-R/Exercise-Notebook). 
 
 ### Phebe Jane Valdez
 
