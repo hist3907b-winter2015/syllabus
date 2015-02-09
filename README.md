@@ -168,7 +168,7 @@ These exercises, with instructions and guidance, will be in the course repo.
 
 There are two checkpoints: 
 
-At week 5: First checkpoint assignment for the major project: research agreement assignment contract  (pass/redo)  (**Midnight, Wednesday February 4th**) 
+At week 5: First checkpoint assignment for the major project: research agreement assignment contract  (pass/redo)  (**Midnight, Wednesday February 4th**) *DATE CHANGED*: Feb 11
 
 At week 8:  Second checkpoint assignment for the major project: research design; data and holes (pass/redo) (**Midnight, Wednesday February 25th**)
 
