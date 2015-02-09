@@ -11,7 +11,7 @@ Then copy the lines below into a new markdown document in your repo. Fork the [s
 
 *Repository structure*: url to repo, discussion of what will be in there
 
-*Secondary Readings*: url to Zotero library, or a page of notes
+*Secondary Readings*: url to Zotero library, or similar; could also be a URL to your open notebook, a page of bibliography
 
 *Initial thoughts on what you might find/explore/puzzle over* 
 
