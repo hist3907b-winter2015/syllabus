@@ -100,7 +100,7 @@
 
 *Ross, Christina*	
 
-	Checkpoint 1: PASTE URL HERE
+	Checkpoint 1: https://github.com/Xtina-R/Final-Project
 
 	Checkpoint 2: PASTE URL HERE
 
