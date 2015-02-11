@@ -20,7 +20,7 @@
 
 *Dodd, Matthew*			
 
-	Checkpoint 1: PASTE URL HERE
+	Checkpoint 1: http://git.io/NO1H
 
 	Checkpoint 2: PASTE URL HERE
 
