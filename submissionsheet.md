@@ -1,6 +1,6 @@
 *Bradley, Luke*		
 
-	Checkpoint 1: PASTE URL HERE
+	Checkpoint 1: Immigration-Data-1961-to-2011/CheckpointOne.md
 
 	Checkpoint 2: PASTE URL HERE
 
