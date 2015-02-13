@@ -80,7 +80,7 @@
 
 *Pickering, Ryan*			
 
-	Checkpoint 1: PASTE URL HERE
+	Checkpoint 1: https://github.com/ryanpickering/ryanpickering.github.io/blob/master/checkpoint1.md
 
 	Checkpoint 2: PASTE URL HERE
 
