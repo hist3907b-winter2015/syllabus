@@ -71,4 +71,4 @@ My open notebook can be found [here.](https://github.com/wblancha/hist3907-noteb
 
 ### Kathryn Greenan
 
-My Online Headquarters is [here](complexbydegree.wordpress.com), and my open notebook can be found [here](https://github.com/katgreenan/my-research-notebook).
+My Online Headquarters is [here](http://complexbydegree.wordpress.com), and my open notebook can be found [here](https://github.com/katgreenan/my-research-notebook).
