@@ -10,7 +10,7 @@ PA406 - Mondays and Wednesdays, by chance or appointment. Sometimes I may be fou
 ### Matthew Taylor
 
 My online HQ is at [this site.](http://www.MATTHEWPORTFOLIO.COM)
-My repo for notes is at [this repo.](https://github.com/Ottawagunner/ResearchHistoryNotes) 
+My repo for notes is at [this repo.](https://github.com/Ottawagunner/ResearchHistoryNotes)
 
 ### Allison Kuhl
 
@@ -40,17 +40,17 @@ My openNotebook is [located in this repo.](https://github.com/matthewdodd/hist39
 
 My online HQ is [here](https://github.com/Xtina-R)
 
-My open notebook is [here](https://github.com/Xtina-R/Exercise-Notebook). 
+My open notebook is [here](https://github.com/Xtina-R/Exercise-Notebook).
 
 ### Phebe Jane Valdez
 
-Hey everyone! 
+Hey everyone!
 My online HQ is here (http://valdezhist3907.wordpress.com)
 My Open notebook can be found here (https://github.com/pjvaldez/ResearchOpenNotebook)
 
 ### Jonlou Czajka
 My online HQ is here: https://github.com/jonlouiscool/
-My open notebook is: https://github.com/jonlouiscool/hello-world 
+My open notebook is: https://github.com/jonlouiscool/hello-world
 
 ### Samuel Keenan
 
@@ -64,7 +64,11 @@ I have great confidence in the potential of learning how to use and create on Gi
 With that said, here's my [HeadQuarter] (https://github.com/Savith)
 Open Notebook will be [here] (https://github.com/Savith/hist3907b-repository)
 
-### William Blanchard 
+### William Blanchard
 
 My online HQ can be found [here.](http://williamblanchardhq.wordpress.com)
 My open notebook can be found [here.](https://github.com/wblancha/hist3907-notebook)
+
+### Kathryn Greenan
+
+My Online Headquarters is [here](complexbydegree.wordpress.com), and my open notebook can be found [here](https://github.com/katgreenan/my-research-notebook).
