@@ -1,32 +1,36 @@
 *Bradley, Luke*
 
-	Checkpoint 1: https://github.com/lukeafbradley/Immigration-Data-1961-to-2011/blob/master/CheckpointOne.md
+Checkpoint 1: https://github.com/lukeafbradley/Immigration-Data-1961-to-2011/blob/master/CheckpointOne.md
 
-	Checkpoint 2: PASTE URL HERE
+Checkpoint 2: PASTE URL HERE
 
-	Draft: PASTE URL HERE
+Draft: PASTE URL HERE
 
-	Final: PASTE URL HERE
+Final: PASTE URL HERE
+
+-----
 
 *Czajka, Jonlou*
 
-	Checkpoint 1: PASTE URL HERE
+Checkpoint 1: PASTE URL HERE
 
-	Checkpoint 2: PASTE URL HERE
+Checkpoint 2: PASTE URL HERE
 
-	Draft: PASTE URL HERE
+Draft: PASTE URL HERE
 
-	Final: PASTE URL HERE
+Final: PASTE URL HERE
+
+----
 
 *Dodd, Matthew*
 
-	Checkpoint 1: http://git.io/NO1H
+Checkpoint 1: http://git.io/NO1H
 
-	Checkpoint 2: PASTE URL HERE
+Checkpoint 2: PASTE URL HERE
 
-	Draft: PASTE URL HERE
+Draft: PASTE URL HERE
 
-	Final: PASTE URL HERE
+Final: PASTE URL HERE
 
 *Elwood, David*
 
