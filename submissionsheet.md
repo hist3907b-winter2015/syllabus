@@ -144,7 +144,7 @@ Final: PASTE URL HERE
 
 *Taylor, Matthew*
 
-Checkpoint 1: PASTE URL HERE
+Checkpoint 1: https://github.com/Ottawagunner/ResearchHistoryNotes/blob/master/EX3/Checkpoint.md
 
 Checkpoint 2: PASTE URL HERE
 
