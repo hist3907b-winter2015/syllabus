@@ -26,7 +26,7 @@ Final: PASTE URL HERE
 
 Checkpoint 1: http://git.io/NO1H
 
-Checkpoint 2: PASTE URL HERE
+Checkpoint 2: http://git.io/peyz
 
 Draft: PASTE URL HERE
 
