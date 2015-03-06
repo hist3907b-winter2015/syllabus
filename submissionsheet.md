@@ -1,151 +1,177 @@
-*Bradley, Luke*		
+*Bradley, Luke*
 
-	Checkpoint 1: PASTE URL HERE
+Checkpoint 1: https://github.com/lukeafbradley/Immigration-Data-1961-to-2011/blob/master/CheckpointOne.md
 
-	Checkpoint 2: PASTE URL HERE
+Checkpoint 2: PASTE URL HERE
 
-	Draft: PASTE URL HERE
+Draft: PASTE URL HERE
 
-	Final: PASTE URL HERE
+Final: PASTE URL HERE
 
-*Czajka, Jonlou*	
+-----
 
-	Checkpoint 1: PASTE URL HERE
+*Czajka, Jonlou*
 
-	Checkpoint 2: PASTE URL HERE
+Checkpoint 1: PASTE URL HERE
 
-	Draft: PASTE URL HERE
+Checkpoint 2: PASTE URL HERE
 
-	Final: PASTE URL HERE
+Draft: PASTE URL HERE
 
-*Dodd, Matthew*			
+Final: PASTE URL HERE
 
-	Checkpoint 1: http://git.io/NO1H
+----
 
-	Checkpoint 2: PASTE URL HERE
+*Dodd, Matthew*
 
-	Draft: PASTE URL HERE
+Checkpoint 1: http://git.io/NO1H
 
-	Final: PASTE URL HERE
+Checkpoint 2: PASTE URL HERE
 
-*Elwood, David*			
+Draft: PASTE URL HERE
 
-	Checkpoint 1: PASTE URL HERE
+Final: PASTE URL HERE
 
-	Checkpoint 2: PASTE URL HERE
+----
 
-	Draft: PASTE URL HERE
+*Elwood, David*
 
-	Final: PASTE URL HERE
+Checkpoint 1: PASTE URL HERE
 
-*Greenan, Kathryn*			
+Checkpoint 2: PASTE URL HERE
 
-	Checkpoint 1: PASTE URL HERE
+Draft: PASTE URL HERE
 
-	Checkpoint 2: PASTE URL HERE
+Final: PASTE URL HERE
 
-	Draft: PASTE URL HERE
+-----
 
-	Final: PASTE URL HERE
-	
-*Keenan, Samuel*			
+*Greenan, Kathryn*
 
-	Checkpoint 1: PASTE URL HERE
+Checkpoint 1: http://git.io/ANgQ
 
-	Checkpoint 2: PASTE URL HERE
+Checkpoint 2: PASTE URL HERE
 
-	Draft: PASTE URL HERE
+Draft: PASTE URL HERE
 
-	Final: PASTE URL HERE
-	
-*Kelley, Patrick*			
+Final: PASTE URL HERE
 
-	Checkpoint 1: PASTE URL HERE
+-----
 
-	Checkpoint 2: PASTE URL HERE
+*Keenan, Samuel*
 
-	Draft: PASTE URL HERE
+Checkpoint 1: PASTE URL HERE
 
-	Final: PASTE URL HERE
-	
-*Kuhl, Allison*		
+Checkpoint 2: PASTE URL HERE
 
-	Checkpoint 1: PASTE URL HERE
+Draft: PASTE URL HERE
 
-	Checkpoint 2: PASTE URL HERE
+Final: PASTE URL HERE
 
-	Draft: PASTE URL HERE
+-----
 
-	Final: PASTE URL HERE
+*Kelley, Patrick*
 
-*Pickering, Ryan*			
+Checkpoint 1: PASTE URL HERE
 
-	Checkpoint 1: PASTE URL HERE
+Checkpoint 2: PASTE URL HERE
 
-	Checkpoint 2: PASTE URL HERE
+Draft: PASTE URL HERE
 
-	Draft: PASTE URL HERE
+Final: PASTE URL HERE
 
-	Final: PASTE URL HERE
+-----
 
-*Robinson, Savith*			
+*Kuhl, Allison*
 
-	Checkpoint 1: PASTE URL HERE
+Checkpoint 1: https://github.com/AllisonKuhl/my-research-notebook/blob/master/Checkpoint%201.md
 
-	Checkpoint 2: PASTE URL HERE
+Checkpoint 2: PASTE URL HERE
 
-	Draft: PASTE URL HERE
+Draft: PASTE URL HERE
 
-	Final: PASTE URL HERE
+Final: PASTE URL HERE
 
-*Ross, Christina*	
+-----
 
-	Checkpoint 1: https://github.com/Xtina-R/Final-Project
+*Pickering, Ryan*
 
-	Checkpoint 2: PASTE URL HERE
+Checkpoint 1: https://github.com/ryanpickering/ryanpickering.github.io/blob/master/checkpoint1.md
 
-	Draft: PASTE URL HERE
+Checkpoint 2: PASTE URL HERE
 
-	Final: PASTE URL HERE
+Draft: PASTE URL HERE
 
-*Servos, Kenneth*	
+Final: PASTE URL HERE
 
-	Checkpoint 1: PASTE URL HERE
+-----
 
-	Checkpoint 2: PASTE URL HERE
+*Robinson, Savith*
 
-	Draft: PASTE URL HERE
+Checkpoint 1: PASTE URL HERE
 
-	Final: PASTE URL HERE
+Checkpoint 2: PASTE URL HERE
 
-	
-*Taylor, Matthew*	
+Draft: PASTE URL HERE
 
-	Checkpoint 1: PASTE URL HERE
+Final: PASTE URL HERE
 
-	Checkpoint 2: PASTE URL HERE
+-----
 
-	Draft: PASTE URL HERE
+*Ross, Christina*
 
-	Final: PASTE URL HERE
+Checkpoint 1: https://github.com/Xtina-R/Final-Project
 
-*Valdez, Phebe-Jane*		
+Checkpoint 2: PASTE URL HERE
 
-	Checkpoint 1: PASTE URL HERE
+Draft: PASTE URL HERE
 
-	Checkpoint 2: PASTE URL HERE
+Final: PASTE URL HERE
 
-	Draft: PASTE URL HERE
+-----
 
-	Final: PASTE URL HERE
+*Servos, Kenneth*
 
-*Willar, James*	
+Checkpoint 1: PASTE URL HERE
 
-	Checkpoint 1: PASTE URL HERE
+Checkpoint 2: PASTE URL HERE
 
-	Checkpoint 2: PASTE URL HERE
+Draft: PASTE URL HERE
 
-	Draft: PASTE URL HERE
+Final: PASTE URL HERE
 
-	Final: PASTE URL HERE
+-----
 
+*Taylor, Matthew*
+
+Checkpoint 1: https://github.com/Ottawagunner/ResearchHistoryNotes/blob/master/EX3/Checkpoint.md
+
+Checkpoint 2: PASTE URL HERE
+
+Draft: PASTE URL HERE
+
+Final: PASTE URL HERE
+
+-----
+
+*Valdez, Phebe-Jane*
+
+Checkpoint 1: PASTE URL HERE
+
+Checkpoint 2: PASTE URL HERE
+
+Draft: PASTE URL HERE
+
+Final: PASTE URL HERE
+
+-----
+
+*Willar, James*
+
+Checkpoint 1: PASTE URL HERE
+
+Checkpoint 2: PASTE URL HERE
+
+Draft: PASTE URL HERE
+
+Final: PASTE URL HERE
