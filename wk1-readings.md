@@ -1,6 +1,6 @@
 Some readings to kick things off:
 ------------
-
+William G Thomas III. 'What is digital scholarship? A typology'. [http://railroads.unl.edu/blog/?p=1159](http://railroads.unl.edu/blog/?p=1159)
 
 Jefferson Bailey, Lily Pregill. 'Speak to the Eyes: The History and Practice of Information Visualization' *Art Documentation: Journal of the Art Libraries Society of North America*, vol. 33 (fall 2014) 0730-7187/2014/3302-0002 [http://www.jeffersonbailey.com/speak-to-the-eyes-the-history-and-practice-of-information-visualization/]
 
