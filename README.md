@@ -1,3 +1,5 @@
+*[april 2 edit. This was the syllabus as it looked back in December. In the furnace of the classroom, the experience of this class meant that I made changes on the fly. The next version of this class will look differently, including a reduction in the number of modules and alterations to the final project. Plus, more guidance will be given on the exercise assessment piece.]*
+
 #Department of History, Carleton University
 ##Data Mining & Visualization - HIST3907B Syllabus Winter 2015
 Dr. Shawn Graham, PA406 @electricarchaeo
