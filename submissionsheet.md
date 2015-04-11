@@ -78,7 +78,7 @@ Checkpoint 2: PASTE URL HERE
 
 Draft: PASTE URL HERE
 
-Final: PASTE URL HERE
+Final: https://www.youtube.com/watch?v=hx1vsDuLt_8
 
 -----
 
