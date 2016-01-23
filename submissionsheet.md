@@ -98,7 +98,7 @@ Final: PASTE URL HERE
 
 Checkpoint 1: https://github.com/ryanpickering/ryanpickering.github.io/blob/master/checkpoint1.md
 
-Checkpoint 2: PASTE URL HERE
+Checkpoint 2: https://github.com/ryanpickering/research-notebook-hist3907b/blob/master/checkpoint2.md
 
 Draft: PASTE URL HERE
 
